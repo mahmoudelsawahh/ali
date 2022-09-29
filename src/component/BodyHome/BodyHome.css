@@ -1,0 +1,20 @@
+.headerImg span{
+    margin: 0px 20px;
+}
+.headerImg{
+    font-size: 20px;
+}
+.parent{
+position: absolute;
+background-color: black;
+}
+.planetBox{
+    padding-top: 30px;
+}
+
+.parent h2{
+    cursor: pointer;
+}
+.borderBottom{
+    border-bottom: 3px solid #fff;
+}
